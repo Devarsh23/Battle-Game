@@ -1,0 +1,642 @@
+Greetings to all, and welcome to the Arena! Two players are pitted against one another in a match that will change their lives.
+
+Player 1 arrives!
+
+His name is Devarsh.
+His abilities are:
+Strength: 7
+Constitution: 6
+Dexterity: 12
+Charisma: 10
+Health: 35
+
+Player 2 arrives!
+
+His name is Patel.
+His abilities are:
+Strength: 10
+Constitution: 8
+Dexterity: 6
+Charisma: 8
+Health: 32
+
+Devarsh will now equip gears.
+
+Gears for player 1 in sorted order are: 
+Gear: Gear4 Affected Ability: CONSTITUTION Effect: 2
+Gear: Potion0 Affected Ability: STRENGTH Effect: 9
+Gear: Potion11 Affected Ability: CONSTITUTION Effect: -9
+Gear: Potion14 Affected Ability: CONSTITUTION Effect: 4
+Gear: Potion2 Affected Ability: STRENGTH Effect: 9
+Gear: Potion4 Affected Ability: STRENGTH Effect: 3
+Gear: Potion7 Affected Ability: STRENGTH Effect: -3
+Gear: Potion8 Affected Ability: CONSTITUTION Effect: 6
+Gear: Belt0 Affected Ability: CHARISMA Effect: 3
+Gear: Belt10 Affected Ability: DEXTERITY Effect: 7
+Gear: Belt11 Affected Ability: DEXTERITY Effect: -2
+Gear: Belt2 Affected Ability: CHARISMA Effect: 6
+Gear: Belt9 Affected Ability: DEXTERITY Effect: -7
+Gear: Footwear2 Affected Ability: DEXTERITY Effect: -1
+
+Patel will now equip gears.
+
+Gears for player 2 in sorted order are: 
+Gear: Gear0 Affected Ability: CONSTITUTION Effect: -5
+Gear: Potion1 Affected Ability: STRENGTH Effect: -6
+Gear: Potion10 Affected Ability: CONSTITUTION Effect: 3
+Gear: Potion12 Affected Ability: CONSTITUTION Effect: -2
+Gear: Potion13 Affected Ability: CONSTITUTION Effect: 1
+Gear: Potion3 Affected Ability: STRENGTH Effect: 5
+Gear: Potion5 Affected Ability: STRENGTH Effect: 1
+Gear: Potion6 Affected Ability: STRENGTH Effect: 4
+Gear: Potion9 Affected Ability: CONSTITUTION Effect: 9
+Gear: Belt1 Affected Ability: CHARISMA Effect: 9
+Gear: Belt3 Affected Ability: CHARISMA Effect: 9
+Gear: Belt4 Affected Ability: CHARISMA Effect: 4
+Gear: Belt5 Affected Ability: DEXTERITY Effect: 4
+Gear: Belt6 Affected Ability: DEXTERITY Effect: 3
+Gear: Footwear0 Affected Ability: DEXTERITY Effect: 1
+
+Devarsh requests a weapon from armory
+He gets a BroadSword1 having a damage range of 6-10
+
+Patel is requesting for a weapon from the armory
+He gets a TwoHandedSword2 having a damage range of 8-12
+
+Player values after equipping gears: 
+
+Name: Devarsh
+Effective Strength: 25
+Effective Constitution: 9
+Effective Dexterity: 9
+Effective Charisma: 19
+Effective Health: 62
+
+Name: Patel
+Effective Strength: 14
+Effective Constitution: 14
+Effective Dexterity: 14
+Effective Charisma: 30
+Effective Health: 72
+The battle begins!
+
+Patel dazzles Devarsh because of his high Charisma. So he is the first to attack. He attacks with TwoHandedSword2
+
+Round 1 Information:
+Devarsh: 
+Damage Taken: 7
+Updated Health: 55
+Patel: 
+Damage Taken: 15
+Updated Health: 57
+
+Round 2 Information:
+Devarsh: 
+Damage Taken: 8
+Updated Health: 47
+Patel: 
+Damage Taken: 18
+Updated Health: 39
+
+Round 3 Information:
+Devarsh: 
+Damage Taken: 10
+Updated Health: 37
+Patel: 
+Damage Taken: 20
+Updated Health: 19
+
+Round 4 Information:
+Devarsh: 
+Damage Taken: 11
+Updated Health: 26
+Patel: 
+Damage Taken: 19
+Updated Health: 0
+The winner is: Devarsh
+
+Press Y for replay or press any other key to quit.
+y
+
+The players have regained their health and are ready for reMatch.
+
+The battle begins!
+
+Patel dazzles Devarsh because of his high Charisma. So he is the first to attack. He attacks with TwoHandedSword2
+
+Round 1 Information:
+Devarsh: 
+Damage Taken: 7
+Updated Health: 52
+Patel: 
+Damage Taken: 18
+Updated Health: 54
+
+Round 2 Information:
+Devarsh: 
+Damage Taken: 9
+Updated Health: 43
+Patel: 
+Damage Taken: 17
+Updated Health: 37
+
+Round 3 Information:
+Devarsh: 
+Damage Taken: 10
+Updated Health: 33
+Patel: 
+Damage Taken: 20
+Updated Health: 17
+
+Round 4 Information:
+Devarsh: 
+Damage Taken: 10
+Updated Health: 23
+Patel: 
+Damage Taken: 18
+Updated Health: 0
+The winner is: Devarsh
+
+Press Y for replay or press any other key to quit.
+
+=================================
+RUN 2 
+
+Player 1 arrives!
+
+His name is Devarsh.
+His abilities are:
+Strength: 9
+Constitution: 10
+Dexterity: 8
+Charisma: 14
+Health: 41
+
+Player 2 arrives!
+
+His name is Patel.
+His abilities are:
+Strength: 11
+Constitution: 10
+Dexterity: 9
+Charisma: 13
+Health: 43
+
+Devarsh will now equip gears.
+
+Gears for player 1 in sorted order are: 
+Gear: Gear1 Affected Ability: CONSTITUTION Effect: 9
+Gear: Potion1 Affected Ability: STRENGTH Effect: 4
+Gear: Potion10 Affected Ability: CONSTITUTION Effect: -5
+Gear: Potion11 Affected Ability: CONSTITUTION Effect: 2
+Gear: Potion12 Affected Ability: CONSTITUTION Effect: 6
+Gear: Potion14 Affected Ability: CONSTITUTION Effect: -5
+Gear: Potion2 Affected Ability: STRENGTH Effect: 5
+Gear: Potion5 Affected Ability: STRENGTH Effect: 7
+Gear: Potion7 Affected Ability: STRENGTH Effect: -3
+Gear: Belt1 Affected Ability: CHARISMA Effect: -2
+Gear: Belt13 Affected Ability: DEXTERITY Effect: -4
+Gear: Belt5 Affected Ability: DEXTERITY Effect: 4
+Gear: Belt9 Affected Ability: DEXTERITY Effect: -5
+Gear: Footwear4 Affected Ability: DEXTERITY Effect: 4
+
+Patel will now equip gears.
+
+Gears for player 2 in sorted order are: 
+Gear: Gear2 Affected Ability: CONSTITUTION Effect: 1
+Gear: Potion0 Affected Ability: STRENGTH Effect: 7
+Gear: Potion13 Affected Ability: CONSTITUTION Effect: 3
+Gear: Potion3 Affected Ability: STRENGTH Effect: -2
+Gear: Potion4 Affected Ability: STRENGTH Effect: 7
+Gear: Potion6 Affected Ability: STRENGTH Effect: 2
+Gear: Potion8 Affected Ability: CONSTITUTION Effect: 9
+Gear: Potion9 Affected Ability: CONSTITUTION Effect: 8
+Gear: Belt2 Affected Ability: CHARISMA Effect: -8
+Gear: Belt3 Affected Ability: CHARISMA Effect: 4
+Gear: Belt4 Affected Ability: CHARISMA Effect: 5
+Gear: Belt6 Affected Ability: DEXTERITY Effect: 9
+Gear: Belt7 Affected Ability: DEXTERITY Effect: 7
+Gear: Footwear1 Affected Ability: DEXTERITY Effect: 2
+
+Devarsh requests a weapon from armory
+He gets a BroadSword1 having a damage range of 6-10
+
+Patel is requesting for a weapon from the armory
+He gets a Flails1 having a damage range of 8-12
+
+Player values after equipping gears: 
+
+Name: Devarsh
+Effective Strength: 22
+Effective Constitution: 17
+Effective Dexterity: 7
+Effective Charisma: 12
+Effective Health: 58
+
+Name: Patel
+Effective Strength: 25
+Effective Constitution: 31
+Effective Dexterity: 27
+Effective Charisma: 14
+Effective Health: 97
+The battle begins!
+
+Patel dazzles Devarsh because of his high Charisma. So he is the first to attack. He attacks with Flails1
+
+Round 1 Information:
+Devarsh: 
+Damage Taken: 13
+Updated Health: 45
+Patel: 
+Damage Taken: 0
+Updated Health: 97
+
+Round 2 Information:
+Devarsh: 
+Damage Taken: 12
+Updated Health: 33
+Patel: 
+Damage Taken: 0
+Updated Health: 97
+
+Round 3 Information:
+Devarsh: 
+Damage Taken: 13
+Updated Health: 20
+Patel: 
+Damage Taken: 0
+Updated Health: 97
+
+Round 4 Information:
+Devarsh: 
+Damage Taken: 12
+Updated Health: 8
+Patel: 
+Damage Taken: 0
+Updated Health: 97
+
+Round 5 Information:
+Devarsh: 
+Damage Taken: 12
+Updated Health: 0
+Patel: 
+Damage Taken: 0
+Updated Health: 97
+The winner is: Patel
+Press Y for replay or press any other key to quit.
+q
+
+======
+Run 3
+Player 1 arrives!
+
+His name is Devarsh.
+His abilities are:
+Strength: 8
+Constitution: 10
+Dexterity: 8
+Charisma: 13
+Health: 39
+
+Player 2 arrives!
+
+His name is Patel.
+His abilities are:
+Strength: 10
+Constitution: 7
+Dexterity: 12
+Charisma: 15
+Health: 44
+
+Devarsh will now equip gears.
+
+Gears for player 1 in sorted order are: 
+Gear: Gear3 Affected Ability: CONSTITUTION Effect: 3
+Gear: Potion1 Affected Ability: STRENGTH Effect: 5
+Gear: Potion10 Affected Ability: CONSTITUTION Effect: 8
+Gear: Potion11 Affected Ability: CONSTITUTION Effect: -8
+Gear: Potion14 Affected Ability: CONSTITUTION Effect: 1
+Gear: Potion3 Affected Ability: STRENGTH Effect: 2
+Gear: Potion6 Affected Ability: STRENGTH Effect: -6
+Gear: Potion9 Affected Ability: CONSTITUTION Effect: 3
+Gear: Belt1 Affected Ability: CHARISMA Effect: 5
+Gear: Belt2 Affected Ability: CHARISMA Effect: 9
+Gear: Belt7 Affected Ability: DEXTERITY Effect: 6
+Gear: Belt8 Affected Ability: DEXTERITY Effect: 8
+Gear: Footwear4 Affected Ability: DEXTERITY Effect: 8
+
+Patel will now equip gears.
+
+Gears for player 2 in sorted order are: 
+Gear: Gear0 Affected Ability: CONSTITUTION Effect: 5
+Gear: Potion0 Affected Ability: STRENGTH Effect: 7
+Gear: Potion12 Affected Ability: CONSTITUTION Effect: -8
+Gear: Potion13 Affected Ability: CONSTITUTION Effect: 9
+Gear: Potion2 Affected Ability: STRENGTH Effect: -4
+Gear: Potion4 Affected Ability: STRENGTH Effect: -5
+Gear: Potion5 Affected Ability: STRENGTH Effect: -5
+Gear: Potion7 Affected Ability: STRENGTH Effect: 1
+Gear: Potion8 Affected Ability: CONSTITUTION Effect: 4
+Gear: Belt3 Affected Ability: CHARISMA Effect: -1
+Gear: Belt4 Affected Ability: CHARISMA Effect: -4
+Gear: Belt5 Affected Ability: DEXTERITY Effect: 8
+Gear: Belt6 Affected Ability: DEXTERITY Effect: -3
+Gear: Footwear1 Affected Ability: DEXTERITY Effect: 6
+
+Devarsh requests a weapon from armory
+He gets a Flails1 having a damage range of 8-12
+
+Patel is requesting for a weapon from the armory
+He gets a Katana3 having a damage range of 4-6
+
+Player values after equipping gears: 
+
+Name: Devarsh
+Effective Strength: 9
+Effective Constitution: 17
+Effective Dexterity: 30
+Effective Charisma: 27
+Effective Health: 83
+
+Name: Patel
+Effective Strength: 4
+Effective Constitution: 17
+Effective Dexterity: 23
+Effective Charisma: 10
+Effective Health: 54
+The battle begins!
+
+Devarsh dazzles Patel .Devarsh because of his high Charisma. So he is the first to attack. He attacks with Flails1
+
+Round 1
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 2
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 3
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 4
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 5
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 6
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 7
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 8
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 9
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 10
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 11
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 12
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 13
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 14
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 15
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 16
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 17
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 18
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 19
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 20
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 21
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 22
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 23
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 24
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 25
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 26
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 27
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 28
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 29
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+
+Round 30
+
+Devarsh: 
+Damage Taken: 0
+Updated Health: 83
+Patel: 
+Damage Taken: 0
+Updated Health: 54
+The Game is tied as none of the players can hit each other till 30 rounds
+Press Y for replay or press any other key to quit.
+q
